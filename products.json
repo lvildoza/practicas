@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "type": "articles",
+            "id": "1",
+            "atributes": {
+                "title": "Working with JSON Data in JavaScript",
+                "description": "This article explain the variuos ways to work with JSON data in JavaScript",
+                "create": "2023-10-01"
+            },
+            "author": {
+                "id": "1",
+                "name": "Leandro Vildoza"
+            }
+        }
+    ]
+}
